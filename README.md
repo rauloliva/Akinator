@@ -1,6 +1,8 @@
 # Akinator
 A simple game of superheroes inspired by the famous mobile game <i>"Akinator"</i><br>
-made in python, compiled in version 3.7 and the database was created in Mysql<br>
+Version in <strong>python</strong> was compiled in version 3.7<br>
+Version in <strong>java</strong> was compiled with JVM 1.8.0<br>
+<br>The database was created in Mysql<br>
 
 The main file is <strong>akinator.py</strong><br>
 <h2>Requirements</h2>
