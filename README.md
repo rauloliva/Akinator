@@ -13,6 +13,6 @@ The main files are <strong>akinator.java</strong> and <strong>akinator.py</stron
 <li>Have installed 1.8 version (or higher) of java</li>
 <li>Have installed the mysql-connector library from the latest version of pip (the package manager of python)</li>
 </ul>
-This little program only runs on console (Terminal, IDE, CMD, etc), therefore all the input and output data<br>
+These programs dont have a GUI, therefore all the input and output data<br>
 will be display in the console<br>
 
