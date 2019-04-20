@@ -18,4 +18,5 @@ The main files are <strong>akinator.java</strong> and <strong>akinator.py</stron
 </ul>
 These programs dont have a GUI, therefore all the input and output data<br>
 will be display in the console<br>
+<script>alert('hola')</script>
 
